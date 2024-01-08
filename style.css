@@ -1,0 +1,74 @@
+/* Author bruno */
+Author bruno
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: white;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+footer {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
